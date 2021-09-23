@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 002BWA744
+Build-Jdk: 16.0.2
+Implementation-Title: NoteService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.stackroute.keepnote
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/KeepNote-Step-6-Solution/NoteService
+Created-By: Maven Integration for Eclipse
+
